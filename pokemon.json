@@ -523,10 +523,10 @@
               "name": "Cascoon"
             }]
           }, {
-            "id": 274,
-            "num": "274",
+            "id": 270,
+            "num": "270",
             "name": "Lotad",
-            "img": "http://www.serebii.net/pokemongo/pokemon/274.png",
+            "img": "http://www.serebii.net/pokemongo/pokemon/270.png",
             "type": [
               "Water",
               "Grass"
@@ -2195,7 +2195,7 @@
                 ]
               }, {
                 "id": 331,
-                "num": "311",
+                "num": "331",
                 "name": "Cacnea",
                 "img": "http://www.serebii.net/pokemongo/pokemon/331.png",
                 "type": [
