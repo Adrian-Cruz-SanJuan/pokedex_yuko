@@ -1412,7 +1412,11 @@
               "Fire",
               "Ice",
               "Psychc"
-            ]
+            ],
+            "next_evolution": [{
+              "num": "301",
+              "name": "Delcatty"
+            }]
           }, {
             "id": 301,
             "num": "301",
@@ -1436,9 +1440,9 @@
               "Ice",
               "Rock"
             ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
+            "prev_evolution": [{
+              "num": "300",
+              "name": "Skitty"
             }]
           }, {
             "id": 302,
@@ -1462,11 +1466,7 @@
               "Ice",
               "Fire",
               "Rock"
-            ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
-            }]
+            ]
           }, {
             "id": 303,
             "num": "303",
@@ -1489,11 +1489,7 @@
               "Ice",
               "Fire",
               "Rock"
-            ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
-            }]
+            ]
           }, {
             "id": 304,
             "num": "304",
@@ -1518,10 +1514,10 @@
               "Hater"
             ],
             "next_evolution": [{
-              "num": "001",
+              "num": "305",
               "name": "Lairon"
             }, {
-              "num": "002",
+              "num": "306",
               "name": "Aggron"
             }]
           }, {
@@ -1549,11 +1545,11 @@
               "Ground"
             ],
             "prev_evolution": [{
-              "num": "001",
+              "num": "304",
               "name": "Aron"
             }],
                "next_evolution":[{
-              "num": "002",
+              "num": "306",
               "name": "Aggron"
             }]
           }, {
@@ -1578,9 +1574,12 @@
               "Fight",
               "Hater"
             ],
-              "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
+            "prev_evolution": [{
+              "num": "304",
+              "name": "Aron"
+            },{
+              "num": "304",
+              "name": "Lairon"
             }]
           }, {
             "id": 307,
@@ -1607,7 +1606,7 @@
               "Ghost"
             ],
             "next_evolution": [{
-              "num": "001",
+              "num": "308",
               "name": "Medicham"
             }]
           }, {
@@ -1633,7 +1632,7 @@
               "Flying"
             ],
             "prev_evolution": [{
-            "num": "001",
+            "num": "307",
             "name": "Meditite"
             }]
           }, {
@@ -1659,7 +1658,7 @@
               "Bug"
             ],
             "next_evolution": [{
-              "num": "001",
+              "num": "310",
               "name": "Manectric"
             }]
           }, {
@@ -1683,9 +1682,9 @@
               "Fire",
               "Normal"
             ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
+            "prev_evolution": [{
+              "num": "309",
+              "name": "Electrike"
             }]
           }, {
             "id": 311,
@@ -1708,18 +1707,14 @@
               "Fire",
               "Normal",
               "Rock"
-            ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
-            }]
+            ]
           }, {
             "id": 312,
             "num": "312",
             "name": "Minum",
             "img": "https://www.serebii.net/pokemongo/pokemon/312.png",
             "type": [
-              "Electr"
+              "Electric"
             ],
             "height": "0.4 m",
             "weight": "4.2 kg",
@@ -1733,11 +1728,7 @@
             "weaknesses": [
               "Fire",
               "Ground"
-            ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
-            }]
+            ]
           }, {
             "id": 313,
             "num": "313",
@@ -1761,8 +1752,8 @@
               "Rock"
             ],
             "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
+              "num": "314",
+              "name": "Illumise"
             }]
         
           }, {
@@ -1787,11 +1778,10 @@
               "Flying",
               "Rock"
             ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
+            "prev_evolution": [{
+              "num": "313",
+              "name": "Volbeat"
             }]
-        
           }, {
             "id": 315,
             "num": "315",
@@ -1817,11 +1807,11 @@
               "Flying"
             ],
             "prev_evolution": [{
-              "num": "001",
+              "num": "000",
               "name": "Budew"
             }],
                "next_evolution":[{
-              "num": "002",
+              "num": "000",
               "name": "Roserade"
             }]
         
@@ -1847,7 +1837,7 @@
               "Psychc"
             ],
             "next_evolution": [{
-              "num": "001",
+              "num": "317",
               "name": "Swalot"
             }]
           }, {
@@ -1871,9 +1861,9 @@
               "Ground",
               "Psychc"
             ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
+            "prev_evolution": [{
+              "num": "316",
+              "name": "Gulpin"
             }]
         
           }, {
@@ -1900,7 +1890,7 @@
               "Fairy"
             ],
             "next_evolution": [{
-              "num": "001",
+              "num": "319",
               "name": "Sharpedo"
             }]
         
@@ -1928,9 +1918,9 @@
               "Fight",
               "Bug"
             ],
-            "next_evolution": [{
-              "num": "0",
-              "name": "This is the final Evolution"
+            "prev_evolution": [{
+              "num": "318",
+              "name": "Carvanha"
             }]
           }, {
             "id": 320,
@@ -1954,7 +1944,7 @@
               "Grass"
             ],
             "next_evolution": [{
-              "num": "001",
+              "num": "321",
               "name": "Wailord"
             }]
             },
@@ -1977,7 +1967,11 @@
                 "weaknesses": [
                   "Electric",
                   "Plant"
-                ]
+                ],
+                "prev_evolution": [{
+                  "num": "320",
+                  "name": "Wailmer"
+                }]
               }, {
                 "id": 322,
                 "num": "322",
@@ -3225,8 +3219,7 @@
                 "name" : "Huntail" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/367.png" ,
                 "type" : [
-                "Water" ,
-                  "  "
+                "Water"
                 ],
                 "height" : "1.7m" ,
                 "weight" : "27 kg" ,
@@ -3252,8 +3245,7 @@
                 "name" : "Goerebyss" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/368.png" ,
                 "type" : [
-                  "Water" ,
-                  "  "
+                  "Water"
                 ],
                 "Height" : "1.8m" ,
                 "height" : "22.6 kg" ,
@@ -3274,8 +3266,7 @@
                 "name" : "Relicanth" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/369.png" ,
                 "type" : [
-                  "Water Rock" ,
-                  "  "
+                  "Water Rock"
                 ],
                 "height" : "1 m" ,
                 "weight" : "23.4 kg" ,
@@ -3299,8 +3290,7 @@
                 "name" : "luvdisc" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/370.png" ,
                 "type" : [
-                  "Water" ,
-                  "  "
+                  "Water"
                 ],
                 "height" : "0.6 m" ,
                 "weight" : "8.7 kg" ,
@@ -3321,8 +3311,7 @@
                 "name" : "Bagon" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/371.png" ,
                 "type" : [
-                  "dragon" ,
-                  "  "
+                  "dragon"
                 ],
                 "height" : "0.6 m" ,
                 "weight" : "42.1 kg" ,
@@ -3356,8 +3345,7 @@
                 "name" : "shelgon" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/372.png" ,
                 "type" : [
-                  "dragon" ,
-                  "  "
+                  "dragon"
                 ],
                 "height" : "1.1 m" ,
                 "weight" : "110.5 kg" ,
@@ -3387,8 +3375,7 @@
                 "name" : "salamance" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/373.png" ,
                 "type" : [
-                  "dragon" ,
-                  "  "
+                  "dragon"
                 ],
                 "height" : "1.5 m" ,
                 "weight" : "102.6 kg" ,
@@ -3414,8 +3401,7 @@
                 "name" : "beldum" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/374.png" ,
                 "type" : [
-                  "steel psychc" ,
-                  "  "
+                  "steel psychc"
                 ],
                 "height" : "0.6 m" ,
                 "weight" : "95.2 kg" ,
@@ -3445,8 +3431,7 @@
                 "name" : "metang" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/375.png" ,
                 "type" : [
-                  "steel psychc" ,
-                  "  "
+                  "steel psychc"
                 ],
                 "height" : "1.2 m" ,
                 "weight" : "202.2 kg" ,
@@ -3473,8 +3458,7 @@
                 "name" : "metagross" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/376.png" ,
                 "type" : [
-                  "steel psychc" ,
-                  "  "
+                  "steel psychc"
                 ],
                 "height" : "1.6 m" ,
                 "weight" : "550 kg" ,
@@ -3501,8 +3485,7 @@
                 "name" : "Regirock" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/377.png" ,
                 "type" : [
-                  "rock" ,
-                  "  "
+                  "rock"
                 ],
                 "height" : "1.7 m" ,
                 "weight" : "230 kg" ,
@@ -3526,8 +3509,7 @@
                 "name" : "Regice" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/378.png" ,
                 "type" : [
-                  "ice" ,
-                  "  "
+                  "ice"
                 ],
                 "height" : "1.8 m" ,
                 "weight" : "178 kg" ,
@@ -3550,8 +3532,7 @@
                 "name" : "Registeel" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/379.png" ,
                 "type" : [
-                  "steel" ,
-                  "  "
+                  "steel"
                 ],
                 "height" : "1.9 m" ,
                 "weight" : "205 kg" ,
@@ -3599,8 +3580,7 @@
                 "name" : "Latios" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/381.png" ,
                 "type" : [
-                  "dragon psychic" ,
-                  "  "
+                  "dragon psychic"
                 ],
                 "height" : "2.1 m" ,
                 "weight" : "60 kg" ,
@@ -3646,8 +3626,7 @@
                 "name" : "groundon" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/383.png" ,
                 "type" : [
-                  "groundon" ,
-                  "  "
+                  "groundon"
                 ],
                 "height" : "3.51 m" ,
                 "weight" : "950 kg" ,
@@ -3670,8 +3649,7 @@
                 "name" : "rayquaza" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/384.png" ,
                 "type" : [
-                  "dragon flying" ,
-                  "  "
+                  "dragon flying"
                 ],
                 "height" : "7.01 m" ,
                 "weight" : "206.5 kg" ,
@@ -3692,8 +3670,7 @@
                 "name" : "jirachi" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/385.png" ,
                 "type" : [
-                  "steel psychic" ,
-                  "  "
+                  "steel psychic"
                 ],
                 "height" : "0.3 m" ,
                 "weight" : "1.1 kg" ,
@@ -3716,8 +3693,7 @@
                 "name" : "Deoxys" ,
                 "img" : "http://www.serebii.net/pokemongo/pokemon/386.png" ,
                 "type" : [
-                  " psychic" ,
-                  "  "
+                  " psychic"
                 ],
                 "height" : "1.7 m" ,
                 "weight" : "60 kg" ,
