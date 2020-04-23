@@ -11480,7 +11480,7 @@
       "id": 520,
       "num": "520",
       "name": "Tranquill",
-      "img": "https://www.serebii.net/pokemon/art/520.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/520.png",
       "type": [
         "Normal",
         "Flying"
@@ -11513,7 +11513,7 @@
       "id": 521,
       "num": "521",
       "name": "Unfezant",
-      "img": "https://www.serebii.net/pokemon/art/521.png ",
+      "img": "http://www.serebii.net/pokemongo/pokemon/521.png",
       "type": [
         "Normal",
         "Flying"
@@ -11544,7 +11544,7 @@
       "id": 522,
       "num": "522",
       "name": "Blitzle",
-      "img": "https://www.serebii.net/pokemon/art/522.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/522.png",
       "type": [
           "Electric"
       ],
@@ -11568,7 +11568,7 @@
       "id": 523,
       "num": "523",
       "name": "Zebstrika",
-      "img": "https://www.serebii.net/pokemon/art/523.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/523.png",
       "type": [
         "Electric"
       ],
@@ -11598,7 +11598,7 @@
       "id": 524,
       "num": "524",
       "name": " Roggenrola",
-      "img": "https://www.serebii.net/pokemon/art/524.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/524.png",
       "type": [
         "Rock"
       ],
@@ -11630,7 +11630,7 @@
       "id": 525,
       "num": "525",
       "name": "Boldore",
-      "img": "https://www.serebii.net/pokemon/art/525.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/525.png",
       "type": [
         "Rock"
       ],
@@ -11662,7 +11662,7 @@
       "id": 526,
       "num": "526",
       "name": " Gigalith",
-      "img": "https://www.serebii.net/pokemon/art/526.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/526.png",
       "type": [
         "Rock"
       ],
@@ -11694,7 +11694,7 @@
       "id": 527,
       "num": "527",
       "name": "Woobat",
-      "img": "https://www.serebii.net/pokemon/art/527.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/527.png",
       "type": [
         "flying",
         "Psichc"
@@ -11723,7 +11723,7 @@
       "id": 528,
       "num": "528",
       "name": " Swoobat",
-      "img": "https://www.serebii.net/pokemon/art/528.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/528.png",
       "type": [
         "flying",
         "Psichc"
@@ -11754,7 +11754,7 @@
       "id": 529,
       "num": "529",
       "name": "Drilbur",
-      "img": "https://www.serebii.net/pokemon/art/529.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/529.png",
       "type": [
       "Earth"
       ],
@@ -11780,7 +11780,7 @@
       "id": 530,
       "num": "530",
       "name": "Excadrill",
-      "img": "https://www.serebii.net/pokemon/art/530.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/530.png",
       "type": [
         "Groun",
         "Steel"
@@ -11807,7 +11807,7 @@
       "id": 531,
       "num": "531",
       "name": "Audino",
-      "img": "https://www.serebii.net/pokemon/art/531.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/531.png",
       "type": [
         "Normal" 
       ],
@@ -11837,7 +11837,7 @@
       "id": 532,
       "num": "532",
       "name": "Timburr",
-      "img": "https://www.serebii.net/pokemon/art/532.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/532.png",
       "type": [ 
         "Normal",
         "Fairy"      
@@ -11868,7 +11868,7 @@
       "id": 533,
       "num": "533",
       "name": "Gurdurr",
-      "img": "https://www.serebii.net/pokemon/art/533.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/533.png",
       "type": [ 
         "Figth"     
       ],
@@ -11898,7 +11898,7 @@
       "id": 534,
       "num": "534",
       "name": "Conkeldurr",
-      "img": "https://www.serebii.net/pokemon/art/534.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/534.png",
       "type": [ 
         "fight"      
       ],
@@ -11928,7 +11928,7 @@
       "id": 535,
       "num": "535",
       "name": "Tympole",
-      "img": "https://www.serebii.net/pokemon/art/535.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/535.png",
       "type": [ 
         "Water"      
       ],
@@ -11957,7 +11957,7 @@
       "id": 536,
       "num": "536",
       "name": "Palpitoad",
-      "img": "https://www.serebii.net/pokemon/art/536.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/536.png",
       "type": [ 
         "ground", 
         "water"     
@@ -11987,7 +11987,7 @@
       "id": 537,
       "num": "537",
       "name": " Seismitoad",
-      "img": "https://www.serebii.net/pokemon/art/537.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/537.png",
       "type": [ 
         "ground", 
         "water"     
@@ -12017,7 +12017,7 @@
       "id": 538,
       "num": "538",
       "name": " Throh",
-      "img": "https://www.serebii.net/pokemon/art/538.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/538.png",
       "type": [ 
         "ground", 
         "water"     
@@ -12049,7 +12049,7 @@
       "id": 539,
       "num": "539",
       "name": "Sawk",
-      "img": "https://www.serebii.net/pokemon/art/539.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/539.png",
       "type": [ 
         "Figth"     
       ],
@@ -12081,7 +12081,7 @@
       "id": 540,
       "num": "540",
       "name": "Sewaddle",
-      "img": "https://www.serebii.net/pokemon/art/540.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/540.png",
       "type": [ 
           "bug",
           "Grass"    
@@ -12115,7 +12115,7 @@
       "id": 541,
       "num": "541",
       "name": "Swadloon",
-      "img": "https://www.serebii.net/pokemon/art/541.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/541.png",
       "type": [ 
         "Bug",
         "Grass"      
@@ -12149,7 +12149,7 @@
       "id": 542,
       "num": "542",
       "name": "Leavanny",
-      "img": "https://www.serebii.net/pokemon/art/542.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/542.png",
       "type": [ 
         "Bug",
         "Grass"      
@@ -12188,7 +12188,7 @@
       "id": 543,
       "num": "543",
       "name": "Venipede",
-      "img": "https://www.serebii.net/pokemon/art/543.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/543.png",
       "type": [ 
         "Bug",
         "Poison"      
@@ -12227,7 +12227,7 @@
       "id": 544,
       "num": "544",
       "name": "Whirlipede",
-      "img": "https://www.serebii.net/pokemon/art/544.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/544.png",
       "type": [ 
           "Bug", 
           "poison"     
@@ -12260,7 +12260,7 @@
       "id": 545,
       "num": "545",
       "name": "Scolipede",
-      "img": "https://www.serebii.net/pokemon/art/545.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/545.png",
       "type": [ 
         "Bug", 
         "poison"     
@@ -12298,7 +12298,7 @@
       "id": 546,
       "num": "546",
       "name": "Cottonee",
-      "img": "https://www.serebii.net/pokemon/art/546.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/546.png",
       "type": [ 
         "Grass", 
         "Fairy"     
@@ -12327,7 +12327,7 @@
       "id": 547,
       "num": "547",
       "name": "Whimsicott",
-      "img": "https://www.serebii.net/pokemon/art/547.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/547.png",
       "type": [
         "Grass",
         "Fairy"
@@ -12357,7 +12357,7 @@
       "id": 548,
       "num": "548",
       "name": "Petilil",
-      "img": "https://www.serebii.net/pokemon/art/548.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/548.png",
       "type": [
         "Grass"
       ],
@@ -12389,7 +12389,7 @@
       "id": 549,
       "num": "549",
       "name": "Liligant",
-      "img": "https://www.serebii.net/pokemon/art/549.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/549.png",
       "type": [
         "Grass"
       ],
@@ -12414,7 +12414,7 @@
       "id": 550,
       "num": "550",
       "name": "Basculin",
-      "img": "https://www.serebii.net/pokemon/art/550.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/550.png",
       "type": [
         "Water"
       ],
@@ -12440,7 +12440,7 @@
       "id": 551,
       "num": "551",
       "name": "Sandile",
-      "img": "https://www.serebii.net/pokemon/art/551.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/551.png",
       "type": [
         "Ground",
         "Dark"
@@ -12474,7 +12474,7 @@
       "id": 552,
       "num": "552",
       "name": "Krokorok",
-      "img": "https://www.serebii.net/pokemon/art/552.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/552.png",
       "type": [
         "Ground",
         "Dark"
@@ -12501,7 +12501,7 @@
       "id": 553,
       "num": "553",
       "name": "Krookodile",
-      "img": "https://www.serebii.net/pokemon/art/553.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/553.png",
       "type": [
         "Ground",
         "Dark"
@@ -12527,7 +12527,7 @@
       "id": 554,
       "num": "554",
       "name": "Darumaka",
-      "img": "https://www.serebii.net/pokemon/art/554.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/554.png",
       "type": [
         "Fire",
         "Ice"
@@ -12552,7 +12552,7 @@
       "id": 555,
       "num": "555",
       "name": "Darmanitan",
-      "img": "https://www.serebii.net/pokemon/art/555.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/555.png",
       "type": [
         "Fire",
         "Ice",
@@ -12580,7 +12580,7 @@
       "id": 556,
       "num": "556",
       "name": "Maratus",
-      "img": "https://www.serebii.net/pokemon/art/556.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/556.png",
       "type": [
         "Grass"
       ],
@@ -12605,7 +12605,7 @@
       "id": 557,
       "num": "557",
       "name": "Dwebble",
-      "img": "https://www.serebii.net/pokemon/art/557.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/557.png",
       "type": [
         "Bug",
         "Rock"
@@ -12630,7 +12630,7 @@
       "id": 558,
       "num": "558",
       "name": "Crustle",
-      "img": "https://www.serebii.net/pokemon/art/558.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/558.png",
       "type": [
         "Bug",
         "Rock"
@@ -12660,7 +12660,7 @@
       "id": 559,
       "num": "559",
       "name": "Scraggy",
-      "img": "https://www.serebii.net/pokemon/art/559.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/559.png",
       "type": [
         "Dark",
         "Fight"
@@ -12687,7 +12687,7 @@
       "id": 560,
       "num": "560",
       "name": "Scrafly",
-      "img": "https://www.serebii.net/pokemon/art/560.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/560.png",
       "type": [
         "Dark",
         "Fight"
@@ -12717,7 +12717,7 @@
       "id": 561,
       "num": "561",
       "name": "Siglyp",
-      "img": "https://www.serebii.net/pokemon/art/561.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/561.png",
       "type": [
         "Psychc",
         "Flying"
@@ -12747,7 +12747,7 @@
       "id": 562,
       "num": "562",
       "name": "Yamask",
-      "img": "https://www.serebii.net/pokemon/art/562.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/562.png",
       "type": [
         "Ghost"
       ],
@@ -12770,7 +12770,7 @@
       "id": 563,
       "num": "563",
       "name": "Cofagrigus",
-      "img": "https://www.serebii.net/pokemon/art/563.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/563.png",
       "type": [
         "Ghost"
       ],
@@ -12799,7 +12799,7 @@
       "id": 564,
       "num": "564",
       "name": "Tirtouga",
-      "img": "https://www.serebii.net/pokemon/art/564.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/564.png",
       "type": [
         "Water",
         "Rock"
@@ -12824,7 +12824,7 @@
       "id": 565,
       "num": "565",
       "name": "Carracosta",
-      "img": "https://www.serebii.net/pokemon/art/565.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/565.png",
       "type": [
           "Water",
           "Rock"
@@ -12850,7 +12850,7 @@
       "id": 566,
       "num": "566",
       "name": "Archen",
-      "img": "https://www.serebii.net/pokemon/art/566.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/566.png",
       "type": [
         "rock",
         "Fliying"
@@ -12884,7 +12884,7 @@
       "id": 567,
       "num": "567",
       "name": "Archeops",
-      "img": "https://www.serebii.net/pokemon/art/567.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/567.png",
       "type": [
         "Rock",
         "Fliying"
@@ -12911,7 +12911,7 @@
       "id": 568,
       "num": "568",
       "name": "Trubbish",
-      "img": "https://www.serebii.net/pokemon/art/568.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/568.png",
       "type": [
         "Poison"
       ],
@@ -12938,7 +12938,7 @@
       "id": 569,
       "num": "569",
       "name": "Garbodor",
-      "img": "https://www.serebii.net/pokemon/art/569.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/569.png",
       "type": [
         "Poison"
       ],
@@ -12963,7 +12963,7 @@
       "id": 570,
       "num": "570",
       "name": "Zorua",
-      "img": "https://www.serebii.net/pokemon/art/570.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/570.png",
       "type": [
         "Dark"
       ],
@@ -12990,7 +12990,7 @@
       "id": 571,
       "num": "571",
       "name": "Zoroark",
-      "img": "https://www.serebii.net/pokemon/art/571.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/571.png",
       "type": [
         "Dark"
       ],
@@ -13015,7 +13015,7 @@
       "id": 572,
       "num": "572",
       "name": "Minccino",
-      "img": "https://www.serebii.net/pokemon/art/572.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/572.png",
       "type": [
         "Normal"
       ],
@@ -13039,7 +13039,7 @@
       "id": 573,
       "num": "573",
       "name": "Cinccino",
-      "img": "https://www.serebii.net/pokemon/art/573.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/573.png",
       "type": [
         "Normal"
       ],
@@ -13064,7 +13064,7 @@
       "id": 574,
       "num": "574",
       "name": "Gothita",
-      "img": "https://www.serebii.net/pokemon/art/574.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/574.png",
       "type": [
           "Grass",
           "Poison"
@@ -13095,7 +13095,7 @@
       "id": 575,
       "num": "575",
       "name": "Gothorita",
-      "img": "https://www.serebii.net/pokemon/art/575.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/575.png",
       "type": [
           "PSYCHC"
       ],
@@ -13129,7 +13129,7 @@
       "id": 576,
       "num": "576",
       "name": "Gothitelle",
-      "img": "https://www.serebii.net/swordshield/pokemon/small/576.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/576.png",
       "type": [
           "PSYCHC"
       ],
@@ -13164,7 +13164,7 @@
       "id": 577,
       "num": "577",
       "name": "Solosis",
-      "img": "https://www.serebii.net/pokemon/art/577.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/577.png",
       "type": [
           "PSYCHC"
       ],
@@ -13193,7 +13193,7 @@
       "id": 578,
       "num": "578",
       "name": "Duosion",
-      "img": "https://www.serebii.net/swordshield/pokemon/small/578.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/578.png",
       "type": [
           "PSYCHC"
       ],
@@ -13228,7 +13228,7 @@
       "id": 579,
       "num": "579",
       "name": "Reiniclus",
-      "img": "https://www.serebii.net/pokemon/art/579.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/579.png",
       "type": [
           "PSYCHC"
       ],
@@ -13263,7 +13263,7 @@
       "id": 580,
       "num": "580",
       "name": "Ducklett",
-      "img": "https://www.serebii.net/pokemon/art/580.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/580.png",
       "type": [
           "water",
           "Flying"
@@ -13291,7 +13291,7 @@
       "id": 581,
       "num": "581",
       "name": "Swanna",
-      "img": "https://www.serebii.net/pokemon/art/581.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/581.png",
       "type": [
           "Water",
           "Flying"
@@ -13325,7 +13325,7 @@
       "id": 582,
       "num": "582",
       "name": "Vanillite",
-      "img": "https://www.serebii.net/pokemon/art/582.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/582.png",
       "type": [
           "ice"
       ],
@@ -13355,7 +13355,7 @@
       "id": 583,
       "num": "583",
       "name": "Vanillish",
-      "img": "https://www.serebii.net/pokemon/art/583.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/583.png",
       "type": [
           "Ice"
       ],
@@ -13385,7 +13385,7 @@
       "id": 584,
       "num": "584",
       "name": "Vanilluxe",
-      "img": "https://www.serebii.net/pokemon/art/584.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/584.png",
       "type": [
           "Ice"
       ],
@@ -13419,7 +13419,7 @@
       "id": 585,
       "num": "585",
       "name": "Deerling",
-      "img": "https://www.serebii.net/pokemon/art/585.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/585.png",
       "type": [
           "Normal",
           "Grass"
@@ -13447,7 +13447,7 @@
       "id": 586,
       "num": "586",
       "name": "Sawsbuck",
-      "img": "https://www.serebii.net/pokemon/art/586.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/586.png",
       "type": [
           "Normal",
           "Grass"
@@ -13484,7 +13484,7 @@
       "id": 587,
       "num": "587",
       "name": "Emolga",
-      "img": "https://www.serebii.net/pokemon/art/587.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/587.png",
       "type": [
           "Electr",
           "Flying"
@@ -13514,7 +13514,7 @@
       "id": 588,
       "num": "588",
       "name": "Karrablast",
-      "img": "https://www.serebii.net/pokemon/art/588.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/588.png",
       "type": [
           "Bug"
       ],
@@ -13541,7 +13541,7 @@
       "id": 590,
       "num": "590",
       "name": "Foongus",
-      "img": "https://www.serebii.net/pokemon/art/590.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/590.png",
       "type": [
           "Grass",
           "Poison"
@@ -13569,7 +13569,7 @@
       "id": 591,
       "num": "591",
       "name": "Amoongus",
-      "img": "https://www.serebii.net/pokemon/art/591.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/591.png",
       "type": [
           "Grass",
           "Poison"
@@ -13606,7 +13606,7 @@
       "id": 592,
       "num": "592",
       "name": "Frillish",
-      "img": "https://www.serebii.net/pokemon/art/592.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/592.png",
       "type": [
           "water",
           "ghost"
@@ -13636,7 +13636,7 @@
       "id": 593,
       "num": "593",
       "name": "Jallicent",
-      "img": "https://www.serebii.net/pokemon/art/593.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/593.png",
       "type": [
           "water",
           "ghost"
@@ -13673,7 +13673,7 @@
       "id": 594,
       "num": "594",
       "name": "Alomomola",
-      "img": "https://www.serebii.net/pokemon/art/594.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/594.png",
       "type": [
           "water"
       ],
@@ -13704,7 +13704,7 @@
       "id": 595,
       "num": "595",
       "name": "Joltik",
-      "img": "https://www.serebii.net/pokemon/art/595.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/595.png",
       "type": [
           "Bug",
           "Electr"
@@ -13732,7 +13732,7 @@
       "id": 596,
       "num": "596",
       "name": "Galantula",
-      "img": "https://www.serebii.net/pokemon/art/596.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/596.png",
       "type": [
           "Grass",
           "Poison"
@@ -13769,7 +13769,7 @@
       "id": 597,
       "num": "597",
       "name": "Ferroseed",
-      "img": "https://www.serebii.net/pokemon/art/597.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/597.png",
       "type": [
           "Grass",
           "steel"
@@ -13797,7 +13797,7 @@
       "id": 598,
       "num": "598",
       "name": "Ferrothorn",
-      "img": "https://www.serebii.net/pokemon/art/598.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/598.png",
       "type": [
           "Grass",
           "steel"
@@ -13833,7 +13833,7 @@
       "id": 599,
       "num": "599",
       "name": "Klink",
-      "img": "https://www.serebii.net/pokemon/art/599.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/599.png",
       "type": [
           "steel"
       ],
@@ -13863,7 +13863,7 @@
       "id": 600,
       "num": "600",
       "name": "Klang",
-      "img": "https://www.serebii.net/pokemon/art/600.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/600.png",
       "type": [
           "steel"
       ],
@@ -13896,7 +13896,7 @@
       "id": 601,
       "num": "601",
       "name": "Klinklang",
-      "img": "https://www.serebii.net/blackwhite/pokemon/601.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/601.png",
       "type": [
           "Steel"
       ],
@@ -13926,7 +13926,7 @@
       "id": 602,
       "num": "602",
       "name": "Tynamo",
-      "img": "https://www.serebii.net/blackwhite/pokemon/602.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/602.png",
       "type": [
           "ELECTR"
           
@@ -13961,7 +13961,7 @@
       "id": 603,
       "num": "603",
       "name": "Eelektrik",
-      "img": "https://www.serebii.net/blackwhite/pokemon/603.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/603.png",
       "type": [
           "ELECTR"
       ],
@@ -13990,7 +13990,7 @@
       "id": 604,
       "num": "604",
       "name": "Eelektross",
-      "img": "https://www.serebii.net/blackwhite/pokemon/604.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/604.png",
       "type": [
           "ELECTR"
       ],
@@ -14019,7 +14019,7 @@
       "id": 605,
       "num": "605",
       "name": " Elgyem",
-      "img": "https://www.serebii.net/blackwhite/pokemon/605.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/605.png",
       "type": [
           "PSYCHC"
       ],
@@ -14049,7 +14049,7 @@
         "id": 606,
         "num": "606",
         "name": "Beheeyem",
-        "img": " https://www.serebii.net/blackwhite/pokemon/606.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/606.png",
         "type": [
             "PSYCHC"
         ],
@@ -14077,7 +14077,7 @@
         "id": 607,
         "num": "607",
         "name": "Litwick",
-        "img": "https://www.serebii.net/blackwhite/pokemon/607.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/607.png",
         "type": [
             "GHOST" , "FIRE"
         ],
@@ -14105,7 +14105,7 @@
         "id": 608,
         "num": "608",
         "name": "Lampent",
-        "img": "https://www.serebii.net/blackwhite/pokemon/608.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/608.png",
         "type": [
             "GHOST" , "FIRE"
         ],
@@ -14134,7 +14134,7 @@
         "id": 609,
         "num": "609",
         "name": "Chandelure",
-        "img": "https://www.serebii.net/Shiny/BW/609.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/609.png",
         "type": [
             "GHOST","FIRE"
         ],
@@ -14167,7 +14167,7 @@
         "id": 610,
         "num": "610",
         "name": "Axew",
-        "img": "https://www.serebii.net/Shiny/BW/610.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/610.png",
         "type": [
             "DRAGON"
         ],
@@ -14196,7 +14196,7 @@
         "id": 611,
         "num": "611",
         "name": "Fraxure",
-        "img": "https://www.serebii.net/Shiny/BW/611.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/611.png",
         "type": [
             "DRAGON"
         ],
@@ -14229,7 +14229,7 @@
         "id": 612,
         "num": "612",
         "name": " Haxorus",
-        "img": "https://www.serebii.net/Shiny/BW/612.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/612.png",
         "type": [
             "DRAGON"
         ],
@@ -14265,7 +14265,7 @@
         "id": 613,
         "num": "613",
         "name": "Cubchoo",
-        "img": "https://www.serebii.net/Shiny/BW/613.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/613.png",
         "type": [
             "ICE"
         ],
@@ -14298,7 +14298,7 @@
         "id": 614,
         "num": "614",
         "name": "Beartic",
-        "img": "https://www.serebii.net/Shiny/BW/614.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/614.png",
         "type": [
             "ice"
         ],
@@ -14332,7 +14332,7 @@
         "id": 615,
         "num": "615",
         "name": " Cryogonal",
-        "img": "https://www.serebii.net/Shiny/BW/615.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/615.png",
         "type": [
             "ice"
         ],
@@ -14367,7 +14367,7 @@
         "id": 616,
         "num": "616",
         "name": "Shelmet",
-        "img": "https://www.serebii.net/Shiny/BW/616.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/616.png",
         "type": [
             "Bug"
         ],
@@ -14398,7 +14398,7 @@
         "id": 617,
         "num": "617",
         "name": " Accelgor",
-        "img": "https://www.serebii.net/Shiny/BW/617.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/617.png",
         "type": [
             "Bug"
         ],
@@ -14427,7 +14427,7 @@
         "id": 618,
         "num": "618",
         "name": "Stunfisk",
-        "img": "https://www.serebii.net/Shiny/BW/618.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/618.png",
         "type": [
             "Ground",
             "Electr"
@@ -14461,7 +14461,7 @@
         "id": 619,
         "num": "619",
         "name": "Mienfoo",
-        "img": "https://www.serebii.net/Shiny/BW/619.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon//619.png",
         "type": [
             "Fight"
         ],
@@ -14488,7 +14488,7 @@
         "id": 620,
         "num": "620",
         "name": "Mienshao",
-        "img": "https://www.serebii.net/Shiny/BW/620.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/620.png",
         "type": [
             "Fight"
         ],
@@ -14517,7 +14517,7 @@
       "id": 621,
       "num": "621",
       "name": "Druddigon",
-      "img": "https://www.serebii.net/Shiny/BW/621.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/621.png",
       "type": [
           "Dragon"
       ],
@@ -14545,7 +14545,7 @@
       "id": 622,
       "num": "622",
       "name": " Golett",
-      "img": "https://www.serebii.net/Shiny/BW/622.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/622.png",
       "type": [
           "Ground",
           "Ghost"
@@ -14576,7 +14576,7 @@
       "id": 623,
       "num": "623",
       "name": " Golurk",
-      "img": "https://www.serebii.net/Shiny/BW/623.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/623.png",
       "type": [
           "Ground" ,
           "Ghost"
@@ -14605,7 +14605,7 @@
       "id": 624,
       "num": "624",
       "name": "Pawniard",
-      "img": "https://www.serebii.net/Shiny/BW/624.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/624.png",
       "type": [
           "Dark" , 
           "Steel"
@@ -14636,7 +14636,7 @@
       "id": 625,
       "num": "625",
       "name": "Bisharp",
-      "img": "https://www.serebii.net/Shiny/BW/625.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/625.png",
       "type": [
           "Dark" , 
           "Steel"
@@ -14661,7 +14661,7 @@
       "id": 626,
       "num": "626",
       "name": " Bouffalant",
-      "img": "https://www.serebii.net/Shiny/BW/626.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/626.png",
       "type": [
           "Normal"
       ],
@@ -14690,7 +14690,7 @@
       "id": 627,
       "num": "627",
       "name": " Rufflet",
-      "img": "https://www.serebii.net/Shiny/BW/627.png",
+      "img": "http://www.serebii.net/pokemongo/pokemon/627.png",
       "type": [
           "Normal" , 
           "Flyimg"
@@ -14717,7 +14717,7 @@
         "id": 628,
         "num": "628",
         "name": "Braviary",
-        "img": "https://www.serebii.net/pokemon/art/628.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/628.png",
         "type": [
           "Normal",
           "Flying"
@@ -14754,7 +14754,7 @@
         "id": 629,
         "num": "629",
         "name": "vullaby",
-        "img": "https://www.serebii.net/pokemon/art/629.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/629.png",
         "type": [
           "dark",
           "flying"
@@ -14789,7 +14789,7 @@
         "id": 630,
         "num": "630",
         "name": "Mandibuzz",
-        "img": "https://www.serebii.net/pokemon/art/630.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/630.png",
         "type": [
           "dark",
           "flying"
@@ -14825,7 +14825,7 @@
         "id": 631,
         "num": "631",
         "name": "Heatmor",
-        "img": "https://www.serebii.net/pokemon/art/631.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/631.png",
         "type": [
           "Fire"
         ],
@@ -14854,7 +14854,7 @@
         "id": 632,
         "num": "632",
         "name": "Durant",
-        "img": "https://www.serebii.net/pokemon/art/632.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/632.png",
         "type": [
           "bug",
           "steel"
@@ -14885,7 +14885,7 @@
         "id": 633,
         "num": "633",
         "name": "Deino",
-        "img": "https://www.serebii.net/pokemon/art/633.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/633.png",
         "type": [
           "dark",
           "dragon"
@@ -14920,7 +14920,7 @@
         "id": 634,
         "num": "634",
         "name": "Zweilous",
-        "img": "https://www.serebii.net/pokemon/art/634.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/634.png",
         "type": [
           "dark",
           "dragon"
@@ -14949,7 +14949,7 @@
         "id": 635,
         "num": "635",
         "name": "Hydreigon",
-        "img": "https://www.serebii.net/pokemon/art/635.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/635.png",
         "type": [
           "dark",
           "dragon"
@@ -14979,7 +14979,7 @@
         "id": 636,
         "num": "636",
         "name": "Larvesta",
-        "img": "https://www.serebii.net/pokemon/art/636.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/636.png",
         "type": [
           "bug",
           "fire"
@@ -15013,7 +15013,7 @@
         "id": 637,
         "num": "637",
         "name": "Volcarona",
-        "img": "https://www.serebii.net/pokemon/art/637.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/637.png",
         "type": [
           "Bug",
           "fire"
@@ -15043,7 +15043,7 @@
         "id": 638,
         "num": "638",
         "name": "Cobalion",
-        "img": "https://www.serebii.net/pokemon/art/638.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/638.png",
         "type": [
           "Steel",
           "fight"
@@ -15077,7 +15077,7 @@
         "id": 639,
         "num": "639",
         "name": "Terrakion",
-        "img": "https://www.serebii.net/pokemon/art/639.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/639.png",
         "type": [
           "rock",
           "fight"
@@ -15114,7 +15114,7 @@
         "id": 640,
         "num": "640",
         "name": "Virzion",
-        "img": "https://www.serebii.net/pokemon/art/640.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/640.png",
         "type": [
           "Grass",
           "fight"
@@ -15148,7 +15148,7 @@
         "id": 641,
         "num": "641",
         "name": "Tornadus",
-        "img": "https://www.serebii.net/pokemon/art/641.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/641.png",
         "type": [
           "Flying"
         ],
@@ -15182,7 +15182,7 @@
         "id": 642,
         "num": "642",
         "name": "Thundurus",
-        "img": "https://www.serebii.net/pokemon/art/642.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/642.png",
         "type": [
           "Electric",
           "Flying"
@@ -15212,7 +15212,7 @@
         "id": 643,
         "num": "643",
         "name": "Reshiram",
-        "img": "https://www.serebii.net/pokemon/art/643.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/643.png",
         "type": [
           "dragon",
           "Fire"
@@ -15244,7 +15244,7 @@
         "id": 644,
         "num": "644",
         "name": "Zekrom",
-        "img": "https://www.serebii.net/pokemon/art/644.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/644.png",
         "type": [
           "dragon",
           "electri"
@@ -15274,7 +15274,7 @@
         "id": 645,
         "num": "645",
         "name": "Landorus",
-        "img": "https://www.serebii.net/pokemon/art/645.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/645.png",
         "type": [
           "ground",
           "frying"
@@ -15308,7 +15308,7 @@
         "id": 646,
         "num": "646",
         "name": "Kyurem",
-        "img": "https://www.serebii.net/pokemon/art/646.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/646.png",
         "type": [
           "dragon",
           "ice"
@@ -15336,7 +15336,7 @@
         "id": 647,
         "num": "647",
         "name": "Keldeo",
-        "img": "https://www.serebii.net/pokemon/art/647.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/647.png",
         "type": [
           "water",
           "fight"
@@ -15366,7 +15366,7 @@
         "id": 648,
         "num": "648",
         "name": "Meloetta",
-        "img": "https://www.serebii.net/pokemon/art/648.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/648.png",
         "type": [
           "Normal",
           "fight",
@@ -15396,7 +15396,7 @@
         "id": 649,
         "num": "649",
         "name": "Genesct",
-        "img": "https://www.serebii.net/pokemon/art/649.png",
+        "img": "http://www.serebii.net/pokemongo/pokemon/649.png",
         "type": [
           "bug",
           "steel"
@@ -15905,7 +15905,7 @@
           "id": 737,
           "num": "737",
           "name": "Charjabug",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/2/2e/Charjabug.png/revision/latest/scale-to-width-down/350?cb=20160701140340",
+          "img": "http://www.serebii.net/pokemongo/pokemon/737.png",
           "type": [
               "Bug",
               "Electric"
@@ -15938,7 +15938,7 @@
           "id": 738,
           "num": "738",
           "name": "Vikavolt",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/cd/Vikavolt.png/revision/latest/scale-to-width-down/350?cb=20160701142856",
+          "img": "http://www.serebii.net/pokemongo/pokemon/738.png",
           "type": [
             "Bug",
             "Electric"
@@ -15970,7 +15970,7 @@
           "id": 739,
           "num": "739",
           "name": "Crabrawler",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/aa/Crabrawler.png/revision/latest/scale-to-width-down/350?cb=20160819165217",
+          "img": "http://www.serebii.net/pokemongo/pokemon/739.png",
           "type": [
             "Fight"
           ],
@@ -15997,7 +15997,7 @@
           "id": 740,
           "num": "740",
           "name": "Crabominable",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/9/96/Crabominable.png/revision/latest/scale-to-width-down/350?cb=20161213001806",
+          "img": "http://www.serebii.net/pokemongo/pokemon/740.png",
           "type": [
             "Fight",
             "Ice"
@@ -16028,7 +16028,7 @@
             "id": 741,
             "num": "741",
             "name": "Oricorio",
-            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/5/56/Oricorio.png/revision/latest/scale-to-width-down/350?cb=20160801153730",
+            "img": "http://www.serebii.net/pokemongo/pokemon/741.png",
             "type": [
               "Psychic",
               "Electric",
@@ -16059,7 +16059,7 @@
             "id": 742,
             "num": "742",
             "name": "Cutiefly",
-            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/7/76/Cutiefly.png/revision/latest/scale-to-width-down/350?cb=20160701135657",
+            "img": "http://www.serebii.net/pokemongo/pokemon/742.png",
             "type": [
               "Bug",
               "Fairy"
@@ -16089,7 +16089,7 @@
             "id": 743,
             "num": "743",
             "name": "Ribombee",
-            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/c4/Ribombee.png/revision/latest/scale-to-width-down/350?cb=20161014161434",
+            "img": "http://www.serebii.net/pokemongo/pokemon/743.png",
             "type": [
               "Bug",
               "Fairy"
@@ -16122,7 +16122,7 @@
             "id": 744,
             "num": "744",
             "name": "Rockruff",
-            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/1/13/Rockruff.png/revision/latest/scale-to-width-down/350?cb=20160701142430",
+            "img": "http://www.serebii.net/pokemongo/pokemon/744.png",
             "type": [
               "Rock"
             ],
@@ -16151,7 +16151,7 @@
             "id": 745,
             "num": "745",
             "name": "Lycanroc",
-            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/ad/Lycanroc.png/revision/latest/scale-to-width-down/350?cb=20180206060902",
+            "img": "http://www.serebii.net/pokemongo/pokemon/745.png",
             "type": [
               "Rock"
             ],
@@ -16184,7 +16184,7 @@
             "id": 746,
             "num": "746",
             "name": "Wishiwashi",
-            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/c8/Wishiwashi.png/revision/latest/scale-to-width-down/350?cb=20160815221555",
+            "img": "http://www.serebii.net/pokemongo/pokemon/746.png",
             "type": [
               "Water"
             ],
@@ -16210,7 +16210,7 @@
             "id": 747,
             "num": "747",
             "name": "Mareanie",
-            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a9/Mareanie.png/revision/latest/scale-to-width-down/350?cb=20170611004933",
+            "img": "http://www.serebii.net/pokemongo/pokemon/747.png",
             "type": [
               "Poison",
               "Water"
@@ -16238,7 +16238,7 @@
             "id": 748,
             "num": "748",
             "name": "Toxapex",
-            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a4/Toxapex.png/revision/latest/scale-to-width-down/350?cb=20170611005405",
+            "img": "http://www.serebii.net/pokemongo/pokemon/748.png",
             "type": [
               "Poison",
               "Water"
@@ -16270,7 +16270,7 @@
           "id": 749,
           "num": "749",
           "name": "Mudbray",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/0/09/Mudbray.png/revision/latest/scale-to-width-down/350?cb=20160801162549",
+          "img": "http://www.serebii.net/pokemongo/pokemon/749.png",
           "type": [
             "Land"
           ],
@@ -16297,7 +16297,7 @@
           "id": 750,
           "num": "750",
           "name": "Mudsdale",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/5/5b/Mudsdale.png/revision/latest/scale-to-width-down/350?cb=20160720222759",
+          "img": "http://www.serebii.net/pokemongo/pokemon/750.png",
           "type": [
             "Land"
           ],
@@ -16328,7 +16328,7 @@
           "id": 751,
           "num": "751",
           "name": "Dewpider",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/4/44/Dewpider.png/revision/latest/scale-to-width-down/350?cb=20161213235244",
+          "img": "http://www.serebii.net/pokemongo/pokemon/751.png",
           "type": [
             "Water",
             "Bug"
@@ -16387,7 +16387,7 @@
           "id": 753,
           "num": "753",
           "name": "Fomantis",
-          "img": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/02/latest/20160801161829/Fomantis.png/1200px-Fomantis.png",
+          "img": "http://www.serebii.net/pokemongo/pokemon/753.png",
           "type": [
             "Grass"
           ],
@@ -17680,7 +17680,7 @@
           "id": 797,
           "num": "797",
           "name": "Celesteela",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/c3/Celesteela.png/revision/latest?cb=20161206173816",
+          "img": "http://www.serebii.net/pokemongo/pokemon/797.png",
           "type": [
             "Steel",
             "Flying"
@@ -17705,7 +17705,7 @@
           "id": 798,
           "num": "798",
           "name": "Kartana",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a1/Kartana.png/revision/latest?cb=20161206062708",
+          "img": "http://www.serebii.net/pokemongo/pokemon/798.png",
           "type": [
             "Grass",
             "Steel"
@@ -17730,7 +17730,7 @@
           "id": 799,
           "num": "799",
           "name": "Guzzlord",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/9/99/Guzzlord.png/revision/latest?cb=20161118170417",
+          "img": "http://www.serebii.net/pokemongo/pokemon/799.png",
           "type": [
             "Sinister",
             "Dragon"
@@ -17758,7 +17758,7 @@
           "id": 800,
           "num": "800",
           "name": "Necrozma",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/7/77/Necrozma.png/revision/latest?cb=20161114210617",
+          "img": "http://www.serebii.net/pokemongo/pokemon/800.png",
           "type": [
             "Psychic"
           ],
@@ -17783,7 +17783,7 @@
           "id": 801,
           "num": "801",
           "name": "Magearna",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a1/Magearna.png/revision/latest?cb=20160614170955",
+          "img": "http://www.serebii.net/pokemongo/pokemon/801.png",
           "type": [
             "Steel",
             "Fairy"
@@ -17808,7 +17808,7 @@
           "id": 802,
           "num": "802",
           "name": "Marshadow",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/d/dd/Marshadow.png/revision/latest?cb=20170615143647",
+          "img": "http://www.serebii.net/pokemongo/pokemon/802.png",
           "type": [
             "Fighting",
             "Ghost"
@@ -17835,7 +17835,7 @@
           "id": 803,
           "num": "803",
           "name": "Poipole",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/af/Poipole.png/revision/latest?cb=20180104174650",
+          "img": "http://www.serebii.net/pokemongo/pokemon/803.png",
           "type": [
             "Poison"
           ],
@@ -17859,7 +17859,7 @@
           "id": 804,
           "num": "804",
           "name": "Naganadel",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/8/86/Naganadel.png/revision/latest?cb=20171228210954",
+          "img": "http://www.serebii.net/pokemongo/pokemon/804.png",
           "type": [
             "Poison",
             "Dragon"
@@ -17892,7 +17892,7 @@
           "id": 805,
           "num": "805",
           "name": "Stakataka",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/b/b0/Stakataka.png/revision/latest?cb=20180728230153",
+          "img": "http://www.serebii.net/pokemongo/pokemon/805.png",
           "type": [
             "Rock",
             "Steel"
@@ -17918,7 +17918,7 @@
           "id": 806,
           "num": "806",
           "name": "Blacephalon",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/d/d2/Blacephalon.png/revision/latest?cb=20180728230402",
+          "img": "http://www.serebii.net/pokemongo/pokemon/806.png",
           "type": [
             "Fire",
             "Ghost"
@@ -17946,7 +17946,7 @@
           "id": 807,
           "num": "807",
           "name": "Zeraora",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/e/ef/Zeraora.png/revision/latest?cb=20180423021436",
+          "img": "http://www.serebii.net/pokemongo/pokemon/807.png",
           "type": [
             "Electric"
           ],
@@ -17969,7 +17969,7 @@
           "id": 808,
           "num": "808",
           "name": "Meltan",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/3/30/Meltan.png/revision/latest?cb=20180925141230",
+          "img": "http://www.serebii.net/pokemongo/pokemon/808.png",
           "type": [
             "Steel"
           ],
@@ -17994,7 +17994,7 @@
           "id": 809,
           "num": "809",
           "name": "Melmetal",
-          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/4/4b/Melmetal.png/revision/latest?cb=20181025094423",
+          "img": "http://www.serebii.net/pokemongo/pokemon/809.png",
           "type": [
             "Steel"
           ],
